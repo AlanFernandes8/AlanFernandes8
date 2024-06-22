@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Alan Fernandes! 👋
 
-<!--
-**AlanFernandes8/AlanFernandes8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest in uncovering insights from data and creating impactful visualizations. Below you'll find more about me, my projects, and how to get in touch.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: I am pursuing a Bachelor of Engineering degree in Computer Engineering from the University of Mumbai 
+- 📊 **Data Analyst**: I love working with data to uncover insights and tell stories through visualizations.
+- 🌱 **Currently Learning**: Advanced data visualization techniques, machine learning, and big data analytics.
+- 💼 **Looking for Opportunities**: I am open to job opportunities where I can contribute, learn, and grow. If you know of any suitable roles, please feel free to reach out.
+- ⚡ **Hobbies**: I enjoy cooking and watching football.
+
+## Skills
+
+- **Programming Languages**: Python, C, C++
+- **Data Analysis**: pandas, NumPy
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Database Management**: SQL
+- **Tools**: Jupyter, Figma, QGIS, ArcGIS, Excel
+
+## Get in Touch
+
+- **LinkedIn**: [Alan Fernandes](www.linkedin.com/in/alan-fernandes08)
+- **Email**: alanferns19@gmail.com
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanFernandes8&layout=compact&theme=radical)
