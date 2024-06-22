@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 
 ## About Me
 
-- 🎓 **Education**: Currently pursuing a Bachelor of Engineering degree in Computer Engineering from the University of Mumbai 
+- 🎓 **Education**: Currently pursuing a Bachelor of Engineering degree in Computer Engineering at Don Bosco Institute of Technology
 - 📊 **Data Analyst**: I love working with data to uncover insights and tell stories through visualizations.
 - 🌱 **Currently Learning**: Advanced data visualization techniques, machine learning, and big data analytics.
 - 💼 **Looking for Opportunities**: I am open to job opportunities where I can contribute, learn, and grow. If you know of any suitable roles, please feel free to reach out.
