@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 ## Skills
 
 - **Programming Languages**: Python, C, C++
-- **Data Analysis**: pandas, NumPy
+- **Data Analysis**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Database Management**: SQL
