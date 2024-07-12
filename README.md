@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 ## :hammer_and_wrench: Languages, Libraries and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -39,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 
 ## Skills
 
-- **Programming Languages**: Python, C, C++
+- **Programming Languages**: Python, R, Java, C, C++
 - **Data Analysis**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
