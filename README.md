@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://qgis.org/en/_downloads/c18208e3a0be20a4386fed0e1be4727d/qgis-icon128.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
+  <img src="https://qgis.org/styleguide/visual/qgis-icon64.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" **alt="Excel" width="40" height="40"/>
 </div>
 
